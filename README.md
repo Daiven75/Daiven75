@@ -8,7 +8,7 @@ Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse 
 
 💙 Techs: Java, Spring, Flutter, Oracle, JSF, entre outras.
 
-📚 Estudando  JavaScript, VueJs. 
+📚 Estudando  JavaScript.
 
 💬 Pergunte-me sobre: tecnologia, memes, games e futebol.
 
