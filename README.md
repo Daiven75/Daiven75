@@ -4,11 +4,11 @@
 Olá! 👋
 Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse mundo da tecnologia.
 
-💼 Programador Júnior na Montreal Informática.
+💼 Back-end developer na GetInfo Soluções Corporativas.
 
-💙 Techs: Java, Spring, Flutter, Oracle, JSF, entre outras.
+💙 Techs: Java, Spring framework, Junit, Flutter, Oracle, entre outras.
 
-📚 Estudando  JavaScript.
+📚 Estudando  Universo Java.
 
 💬 Pergunte-me sobre: tecnologia, memes, games e futebol.
 
