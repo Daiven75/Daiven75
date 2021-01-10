@@ -6,7 +6,7 @@ Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse 
 
 💼 Back-end developer na GetInfo Soluções Corporativas.
 
-💙 Techs: Java, Spring framework, Junit, Flutter, Oracle, entre outras.
+💙 Techs: Java, Spring framework, Angular, Flutter, Oracle, entre outras.
 
 📚 Estudando  Universo Java.
 
