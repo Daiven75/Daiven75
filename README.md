@@ -4,7 +4,7 @@
 Olá! 👋
 Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse mundo da tecnologia.
 
-💼 Back-end developer na GetInfo Soluções Corporativas.
+💼 Software Developer na Sensedia.
 
 💙 Techs: Java, Spring framework, Angular, Flutter, entre outras.
 
