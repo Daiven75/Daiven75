@@ -6,7 +6,7 @@ Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse 
 
 💼 Software Developer na Sensedia.
 
-💙 Techs: Java, Kotlin, Spring, Angular, Flutter, entre outras.
+💙 Techs: Java, Kotlin, Spring, NestJS, Flutter, entre outras.
 
 💬 Pergunte-me sobre: tecnologia, memes, games e futebol.
 
