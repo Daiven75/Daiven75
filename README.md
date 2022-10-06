@@ -4,7 +4,7 @@
 Olá! 👋
 Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse mundo da tecnologia.
 
-💼 Software Developer na Sensedia.
+💼 Software Engineer na Elo7.
 
 💙 Techs: Java, Spring, NodeJS, TypeScript, Flutter, entre outras.
 
