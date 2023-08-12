@@ -4,9 +4,9 @@
 Olá! 👋
 Meu nome é Lucas Silva, formado em Ciência da Computação e curioso por esse mundo da tecnologia.
 
-💼 Software Engineer na Elo7.
+💼 Software Engineer.
 
-💙 Techs: Java, Spring, NodeJS, TypeScript, Flutter, entre outras.
+💙 Techs: Java, Spring, NodeJS, Docker, Kafka, entre outras.
 
 💬 Pergunte-me sobre: tecnologia, memes, games e futebol.
 
