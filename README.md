@@ -2,15 +2,16 @@
 <h3 align="center">A Actual Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-silva-959102169" target="blank">Linkedin: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva" height="30" width="40" /></a>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/lucas-silva-959102169" target="blank">Linkedin: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva" height="30" width="40" /></a>
   </p>
   <p align="left">
-  <a href="https://lucas-silva.medium.com/" target="blank">Medium: <img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="lucas-silva" height="30" width="40" /></a>
-    </p>
+    <a href="mailto:75.lucas.slima@gmail.com" target="blank">Gmail: <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="lucas-silva" height="30" width="40" /></a>
+  </p>
   <p align="left">
-  <a href="mailto:75.lucas.slima@gmail.com" target="blank">Gmail: <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="lucas-silva" height="30" width="40" /></a>
-    </p>
+    <a href="https://lucas-silva.medium.com/" target="blank">Medium: <img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="lucas-silva" height="30" width="40" /></a>
+  </p>
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
